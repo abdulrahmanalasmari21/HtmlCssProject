@@ -1,0 +1,63 @@
+body{
+    background-image: url("background-image.png");
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+/*top_part*/
+#top_part table{
+    width: 55%;
+}
+
+
+/*mid_part*/
+#mid_part table{
+    width: 100%;
+    
+    
+}
+#mid_part table td{
+    border: double;
+}
+
+#mid_part h2{
+    text-align: center;
+}
+
+/*last_part*/
+
+
+#Bottm_part table{
+    width: 100%;
+    
+    
+}
+#Bottm_part table td{
+    border: double;
+    
+}
+button{
+    background-color: rgb(231, 141, 85);
+    margin: auto;
+    display: block;
+    font-size:25px;
+    color: aliceblue;
+    border-radius: 14%;
+    width: 150px;
+    height: 50px;
+    
+}
+
+.fasel{
+    width: 100%;
+    text-align: center;
+    height: 60px;
+    size: 50px;
+    font-size: 50px;
+    color: silver;
+}
+button a{
+    color: aliceblue;
+    text-decoration: none;
+}
